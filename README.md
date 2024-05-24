@@ -1,5 +1,6 @@
 # React-CodePen-CodeEditor
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![Screenshot (116)](https://github.com/Suro31/React-CodePen-CodeEditor/assets/149144161/68752884-998e-4e85-b744-d332bfd26056)
 
 ## Available Scripts
 
